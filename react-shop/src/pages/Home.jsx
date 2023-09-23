@@ -1,9 +1,10 @@
 import React from 'react'
+import Carousel from "../componets/Carousel";
 
 const Home = () => {
   return (
     <>
-     <h1>Home</h1> 
+    <Carousel />
     </>
   )
 }
